@@ -22,7 +22,9 @@ namespace TellAndTale
         public void DisplayInventory()
         {
             Console.WriteLine("=============================================================================================================================");
-            Console.WriteLine("- Items Status -");
+            Console.WriteLine("- Items Inventory -");
+            Console.WriteLine("There are {0} items in your inventory.\n", inventory.Count);
+
             foreach (Item item in inventory)
             {
                 Console.WriteLine($"Weapon > {item.Name} | Atk : {item.Atk} | AtkSp : {item.AtkSpeed} | Def : {item.Def} | CritChance : {item.CritChance} | Evade : {item.Evade} | Elemental Type {item.WeaponType}");

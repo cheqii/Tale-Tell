@@ -5,3 +5,10 @@ C:\studyqiqi\coding project\TellAndTale\TellAndTale\obj\Debug\TellAndTale.csproj
 C:\studyqiqi\coding project\TellAndTale\TellAndTale\obj\Debug\TellAndTale.exe
 C:\studyqiqi\coding project\TellAndTale\TellAndTale\obj\Debug\TellAndTale.pdb
 C:\studyqiqi\coding project\TellAndTale\TellAndTale\obj\Debug\TellAndTale.csproj.SuggestedBindingRedirects.cache
+C:\qiqiworks\Tale-Tell\TellAndTale\bin\Debug\TellAndTale.exe
+C:\qiqiworks\Tale-Tell\TellAndTale\bin\Debug\TellAndTale.pdb
+C:\qiqiworks\Tale-Tell\TellAndTale\obj\Debug\TellAndTale.csproj.AssemblyReference.cache
+C:\qiqiworks\Tale-Tell\TellAndTale\obj\Debug\TellAndTale.csproj.SuggestedBindingRedirects.cache
+C:\qiqiworks\Tale-Tell\TellAndTale\obj\Debug\TellAndTale.csproj.CoreCompileInputs.cache
+C:\qiqiworks\Tale-Tell\TellAndTale\obj\Debug\TellAndTale.exe
+C:\qiqiworks\Tale-Tell\TellAndTale\obj\Debug\TellAndTale.pdb
